@@ -5,7 +5,7 @@
 ![alt text](image.png)
 
 2. code
-./Sarsa_maze
+./Sarsa_lambda_maze
 
 3. 与Sarsa不同：
 - Q table update:
