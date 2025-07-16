@@ -1,11 +1,11 @@
 # DQN
-1. concenpt
+1. concept
 采取行动a，获得及时奖励R, 得到下一状态S_,依据该状态中可能得所有actions,获得一个可能得最大的Q:
 $$Q_{target} = R + \gamma*Q_{\_}(S_{\_}) \\
 Q_{eval} = Q(S) \\
 loss = loss_{\_}fn(Q_{target}, Q_{eval})
 一定步数后：
-Q_ = Q
+_ = Q
 $$
 
 ```python

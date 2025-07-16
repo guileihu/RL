@@ -4,3 +4,4 @@
 2. [Sarsa](./Sarsa/README.md)
 3. [lamdaSarsa](./lamdaSarsa/README.md)
 4. [DQN](./DQN/README.md)
+5. [doubleDQN](./)
